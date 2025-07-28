@@ -1,4 +1,4 @@
-# SegundaAulaJava
+# Segunda Aula em Java
 
 Este diretório contém exemplos simples em Java para demonstrar funcionalidades básicas do sistema, como exibir a hora atual, identificar o idioma do sistema e obter a resolução da tela.
 
