@@ -26,5 +26,3 @@ Este diretório contém exemplos simples em Java para demonstrar funcionalidades
     ```
 
 > Substitua `NomeDoArquivo` pelo nome do arquivo que deseja executar, sem a extensão `.java`.
-
-## Autor
